@@ -10,7 +10,7 @@ __pycache__/
 # Кэш pytest и отчёты о покрытии
 .pytest_cache/
 .coverage
-htmlcov/
+
 
 # Настройки редактора
 .idea/
